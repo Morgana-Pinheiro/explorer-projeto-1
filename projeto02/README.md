@@ -10,6 +10,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 
-## Projeto
+## 💻 Projeto
 
 Nesse projeto foi desenvolvido uma página inicial de um site de viagens.
