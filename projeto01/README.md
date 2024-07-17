@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src="preview/imgdosite.JPG" width="60%">
+  <img alt="Preview do projeto desenvolvido." src="preview/imgprojeto1.png" width="60%">
 </p>
 
 
